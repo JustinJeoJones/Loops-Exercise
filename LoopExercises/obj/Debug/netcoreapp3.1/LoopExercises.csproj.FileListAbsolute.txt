@@ -10,3 +10,4 @@ C:\Users\Jeo\source\repos\LoopExercises\LoopExercises\obj\Debug\netcoreapp3.1\Lo
 C:\Users\Jeo\source\repos\LoopExercises\LoopExercises\obj\Debug\netcoreapp3.1\LoopExercises.dll
 C:\Users\Jeo\source\repos\LoopExercises\LoopExercises\obj\Debug\netcoreapp3.1\LoopExercises.pdb
 C:\Users\Jeo\source\repos\LoopExercises\LoopExercises\obj\Debug\netcoreapp3.1\LoopExercises.genruntimeconfig.cache
+C:\Users\Jeo\source\repos\LoopExercises\LoopExercises\obj\Debug\netcoreapp3.1\LoopExercises.csprojAssemblyReference.cache
